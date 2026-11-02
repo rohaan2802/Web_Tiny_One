@@ -297,4 +297,4 @@ No analytics, checkout, or performance score is claimed. Tests do not certify ev
 
 **Mohammad Rohaan** · [GitHub](https://github.com/rohaan2802)
 
-Repository: https://github.com/rohaan2802/WebTinyOne
+Repository: https://github.com/rohaan2802/Web_Tiny_One
