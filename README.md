@@ -4,7 +4,7 @@ A polished recreation of the classic **Tinyone** one-page template by **Mohammad
 
 ## LIVE DEMO
 
-https://rohaan2802.github.io/WebTinyOne/
+https://rohaan2802.github.io/Web_Tiny_One/
 
 Related docs: [CASE_STUDY.md](CASE_STUDY.md) · [RESPONSIVE_QA.md](RESPONSIVE_QA.md)
 
